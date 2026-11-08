@@ -1,8 +1,10 @@
 
-<h1 align="center">Hi, I'm Geeth Dasanayake 👋</h1>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1220,100:064E3B&height=190&section=header&text=GEETH%20DASANAYAKE&fontSize=38&fontColor=FFFFFF&fontAlignY=38&desc=QUALITY%20ENGINEERING%20%7C%20SOFTWARE%20DEVELOPMENT%20%7C%20DEVOPS&descSize=12&descAlignY=60&descColor=34D399" width="100%" />
+</p>
 
 <h3 align="center">
-  Software Engineer | DevOps Engineer | QA Engineer
+  QA Engineer | Software Quality Engineering
 </h3>
 
 <p align="center">
@@ -10,88 +12,118 @@
 </p>
 
 <p align="center">
-  Building reliable software, automating workflows,
-  and ensuring software quality.
+  <a href="https://github.com/GeethDasanayakeGD">
+    <img src="https://img.shields.io/badge/GitHub-GeethDasanayakeGD-111827?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <img src="https://img.shields.io/badge/Focus-Quality%20Engineering-059669?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Background-Full%20Stack%20%26%20DevOps-0F766E?style=for-the-badge" />
 </p>
 
 ---
 
 ## 👨‍💻 About Me
 
-I'm a Software Engineering graduate with professional experience
-across Full Stack Development, DevOps Engineering, and
-Quality Assurance.
+I'm a Software Engineering graduate currently working as a **QA Engineer**, with a background in Full Stack Development and DevOps Engineering.
 
-- 🎓 BSc (Hons) in Software Engineering
-- 💻 1 year of experience as a Full Stack Developer Intern
-- ⚙️ 1 year of DevOps Engineering experience
-- 🧪 Currently working as a QA Engineer
-- 🔍 Interested in Software Quality, Automation, and Security
-- 🚀 Passionate about building scalable and reliable applications
+My professional journey includes:
+
+- 🎓 BSc (Hons) in Software Engineering — Completed.
+- 💻 1 year of experience as a Full Stack Developer Intern.
+- ⚙️ 1 year of experience as a DevOps Engineer.
+- 🧪 Currently working as a QA Engineer.
+- 🔍 Interested in software quality, test automation, and reliable software delivery.
+- 🚀 Passionate about improving software quality throughout the development lifecycle.
+
+I believe great software is not only built well — it must also be tested, reliable, secure, and maintainable.
 
 ---
 
-## 💼 Professional Experience
+## 🧪 Quality Assurance & Testing
 
-| Role | Experience |
-|---|---|
-| Full Stack Developer Intern | 1 Year |
-| DevOps Engineer | 1 Year |
+My primary professional focus is Software Quality Engineering.
+
+Areas of focus:
+
+- Software Quality Assurance
+- Manual Testing
+- Test Case Design & Execution
+- Functional & Regression Testing
+- Bug Identification & Reporting
+- API Testing
+- Test Automation
+- Software Testing Lifecycle (STLC)
+- Software Development Lifecycle (SDLC)
+- Quality Process Improvement
+
+---
+
+## ⚙️ Professional Experience
+
+| Position | Experience |
+|:---|:---|
 | QA Engineer | Current Role |
+| DevOps Engineer | 1 Year |
+| Full Stack Developer Intern | 1 Year |
 
 ---
 
 ## 🛠️ Technical Skills
 
-**Development**
-- Full Stack Development
-- Frontend & Backend Development
-- REST API Development
-- Database Management
+### Software Testing & QA
+<!-- Add your actual QA tools and frameworks here -->
 
-**DevOps & Cloud**
-- CI/CD
-- Cloud Technologies
-- Docker & Containerization
-- Deployment & Automation
+### Development
+<!-- Add your actual programming languages and frameworks here -->
 
-**Quality Assurance**
-- Software Testing
-- Manual Testing
-- Test Case Design
-- Bug Reporting
-- Automation Testing
+### DevOps & Cloud
+<!-- Add your actual DevOps and cloud tools here -->
 
-**Other Interests**
-- Cybersecurity
-- Software Engineering
-- Application Security
+### Databases & Tools
+<!-- Add your actual databases and development tools here -->
 
 ---
 
 ## 🚀 Featured Projects
 
-Here are some projects that demonstrate my technical
-knowledge and software engineering skills.
+<!-- Replace these placeholders with your actual repositories -->
 
-<!-- Add your best 4-6 GitHub repositories here -->
+Explore my projects to see my work in:
 
----
-
-## 📊 GitHub Statistics
-
-<!-- Add GitHub statistics cards after updating your username -->
-
----
-
-## 🤝 Connect With Me
-
-- LinkedIn: [Your LinkedIn URL](YOUR_LINKEDIN_URL)
-- Email: YOUR_EMAIL
-- GitHub: [@YOUR_USERNAME](https://github.com/YOUR_USERNAME)
+- Software Quality & Testing
+- Full Stack Application Development
+- DevOps & CI/CD Automation
+- Cloud Technologies
+- Software Security
 
 ---
+
+## 📈 GitHub Activity
 
 <p align="center">
-  <i>Building. Testing. Automating. Improving.</i>
+  <img src="https://github-readme-stats.vercel.app/api?username=GeethDasanayakeGD&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GeethDasanayakeGD&layout=compact&theme=tokyonight&hide_border=true" width="41%" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=GeethDasanayakeGD&theme=tokyonight&hide_border=true" width="70%" />
+</p>
+
+---
+
+## 🤝 Let's Connect
+
+<p align="center">
+  <a href="https://github.com/GeethDasanayakeGD">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <!-- Add your LinkedIn URL -->
+  <!-- Add your professional email -->
+</p>
+
+<p align="center">
+  <i>Building Better Software. Ensuring Better Quality.</i>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:064E3B,100:0B1220&height=100&section=footer" width="100%" />
 </p>
