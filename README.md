@@ -140,15 +140,18 @@ Explore my projects to see my work in:
 
 ---
 
-## 📈 GitHub Activity
+## 📊 GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=GeethDasanayakeGD&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" width="49%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GeethDasanayakeGD&layout=compact&theme=tokyonight&hide_border=true" width="41%" />
+  <img
+    src="https://streak-stats.demolab.com?user=GeethDasanayakeGD&theme=tokyonight&hide_border=true&background=0D1117&ring=34D399&fire=34D399&currStreakLabel=34D399"
+    alt="GitHub Streak Statistics"
+    width="70%"
+  />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=GeethDasanayakeGD&theme=tokyonight&hide_border=true" width="70%" />
+  <i>Consistent learning. Continuous improvement. Better software.</i>
 </p>
 
 ---
@@ -159,8 +162,15 @@ Explore my projects to see my work in:
   <a href="https://github.com/GeethDasanayakeGD">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <!-- Add your LinkedIn URL -->
-  <!-- Add your professional email -->
+  <div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/geeth-dasanayake-engineer/)
+[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)]( )
+[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)]( )
+[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)]( )
+[![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)]( )
+
+</div>
 </p>
 
 <p align="center">
