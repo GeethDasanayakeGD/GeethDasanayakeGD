@@ -108,35 +108,6 @@ Areas of focus:
 | DevOps Engineer | 1 Year |
 | Full Stack Developer Intern | 1 Year |
 
----
-
-## 🛠️ Technical Skills
-
-### Software Testing & QA
-<!-- Add your actual QA tools and frameworks here -->
-
-### Development
-<!-- Add your actual programming languages and frameworks here -->
-
-### DevOps & Cloud
-<!-- Add your actual DevOps and cloud tools here -->
-
-### Databases & Tools
-<!-- Add your actual databases and development tools here -->
-
----
-
-## 🚀 Featured Projects
-
-<!-- Replace these placeholders with your actual repositories -->
-
-Explore my projects to see my work in:
-
-- Software Quality & Testing
-- Full Stack Application Development
-- DevOps & CI/CD Automation
-- Cloud Technologies
-- Software Security
 
 ---
 
